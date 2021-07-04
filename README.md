@@ -5,5 +5,7 @@
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I break stuff more than I make stuff!**
 - 💗 Kacey (02.06.21)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/848302151402520576)](https://discord.com/users/848302151402520576)
+<br><br><br>
+<a href="https://discord.com/users/705665813994012695">
+  <img src="https://lanyard-profile-readme.vercel.app/api/848302151402520576" align="left"/>
+</a>
