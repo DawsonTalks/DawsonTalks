@@ -1,4 +1,6 @@
-
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/DawsonTalks/DawsonTalks/master/header.svg" alt="Hi there, I'm Jack" />
+</h1>
 
 - 🔭 I’m currently working on **[AllTalks](https://github.com/AllTalks)**, a mental health community on Discord.
 - 📫 How to reach me: **jack@alltalks.io** on e-mails or **JackD#0001** on Discord!
