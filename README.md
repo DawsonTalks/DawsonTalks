@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/DawsonTalks/DawsonTalks/master/header.svg" alt="Hi there, I'm Jack" />
 </h1>
 
-- 🔭 I’m currently working on **[AllTalks](https://github.com/AllTalks)**, a mental health community on Discord.
-- 📫 How to reach me: **jack@alltalks.io** on e-mails or **JackD#0001** on Discord!
+- 🔭 I’m currently working on **[Beats](https://github.com/itsbeats)**, an online radio station.
+- 📫 How to reach me: **hi@dawson.systems** on e-mails or **JackD#0001** on Discord!
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I break stuff more than I make stuff!**
 <br><br><br>
