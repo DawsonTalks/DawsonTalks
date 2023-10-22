@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Jack Dawson, a **Front End Web Developer and NodeJS Developer**. I am currently doing **Computer Science** and **Business Studies** in high school, which will be fully completed  in mid-2022.
+🎓 I am Jack Dawson, a **Front End Web Developer and NodeJS Developer**.
 
 👨‍💻 In my spare time, I enjoy contributing to different **Open Source** projects. I also like to explore the world of presenting on internet radio stations and making my voice heard across the globe.
 
